@@ -27,6 +27,7 @@ function Footer() {
                 </form>
             </div>
         </div>
+        <p>This is test project Only For learning Purpose. 2024 no copyright</p>
     </section>
   )
 }
