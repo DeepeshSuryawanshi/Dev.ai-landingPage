@@ -1,18 +1,19 @@
 # Dev.ai Landing Page
 
-Welcome to the **Dev.ai Landing Page** project! This repository showcases a landing page built with React.js and Bootstrap 5. The primary goals of this project are to learn and apply Bootstrap 5 components effectively and maintain a clean React.js folder structure.
+Welcome to the **Dev.ai Landing Page** project! This repository showcases a landing page built with React.js and Bootstrap 5.
+The primary goals of this project are to learn and apply Bootstrap 5 components effectively and maintain a clean React.js folder structure.
 
 ## Project Objectives
 
-- **Learning Bootstrap 5**: Enhance proficiency in Bootstrap 5 by implementing its components and utilities.
-- **Maintaining React.js Folder Structure**: Practice organizing a React project with a scalable and clean folder structure.
+- 🚀 **Learning Bootstrap 5**: Enhance proficiency in Bootstrap 5 by implementing its components and utilities.
+- 📂 **Maintaining React.js Folder Structure**: Practice organizing a React project with a scalable and clean folder structure.
 
 ## Technologies Used
 
-- **HTML**
-- **CSS**
-- **Bootstrap 5**
-- **React.js**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 📦 **Bootstrap 5**
+- ⚛️ **React.js**
 
 ## Getting Started
 
@@ -22,8 +23,8 @@ Follow these steps to clone and run this project locally.
 
 Ensure you have the following installed:
 
-- **Node.js** (v14 or above)
-- **npm** (v6 or above)
+- 🛠️ **Node.js** (v14 or above)
+- 📦 **npm** (v6 or above)
 
 ### Installation
 
@@ -57,43 +58,44 @@ The folder structure of this project:
 
 ```
 Dev.ai-landingPage/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
+├── 📁 public/
+│   ├── 🌐 index.html
+│   └── 🌐 ...
+├── 📁 src/
+│   ├── 📁 assets/
+│   ├── 📁 components/
+│   ├── ⚛️ App.jsx
+│   ├── ⚛️ index.jsx
+│   └── ⚛️ ...
+├── 🐙 .gitignore
+├── 🟢 package.json
+├── 📖 README.md
+└── 📜 ...
 ```
 
-- **public/**: Contains static files and the main HTML file.
-- **src/**: Contains React components, assets, and main application files.
-  - **assets/**: Stores images, fonts, and other media.
-  - **components/**: Contains reusable React components.
-- **.gitignore**: Specifies files to ignore in Git.
-- **package.json**: Lists project dependencies and scripts.
-- **README.md**: Project documentation.
+- 📁 **public/**: Contains static files and the main HTML file.
+- 📁 **src/**: Contains React components, assets, and main application files.
+  - 🖼️ **assets/**: Stores images, fonts, and other media.
+  - 🧩 **components/**: Contains reusable React components.
+- 🐙 **.gitignore**: Specifies files to ignore in Git.
+- 🟢 **package.json**: Lists project dependencies and scripts.
+- 📖 **README.md**: Project documentation.
 
 ## Contributions
 
-Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
+🙌 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request.
 
 ## Author
 
-**Deepesh Suryawanshi**
+**Deepesh Suryawanshi**  
+*Full Stack Developer at CreArt Solutions, Ahmedabad*
 
-- [GitHub Profile](https://github.com/DeepeshSuryawanshi)
-- [LinkedIn Profile](https://www.linkedin.com/in/deepesh-suryawanshi/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/DeepeshSuryawanshi)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/deepesh-suryawanshi/)
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+📝 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
