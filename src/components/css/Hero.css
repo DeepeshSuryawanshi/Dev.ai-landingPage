@@ -1,0 +1,18 @@
+.main-container{
+    padding-top: 100px;
+}
+.text-div{
+    gap: 20px;
+}
+.image-div{
+    width: 50%;
+}
+.text-div h1{
+    font-size: 70px;
+}
+.text-div button{
+    background-color: #2d2d2d;
+    color: #fff;
+    font-size: 18px;
+    width: auto;
+}

@@ -1,0 +1,22 @@
+.main_container{
+    width: 100%;
+
+}
+.main_container .left_side{
+    width: 50%;
+}
+.main_container .right_side{
+    width: 40%;
+}
+.main_container .right_side input{
+    border: none;
+    background-color: #f3f3f3;
+    color: #2d2d2d;
+    padding: 20px 20px;
+}
+button{
+    background-color: #2d2d2d;
+    color: #fff;
+    font-size: 17px;
+    width: 25%;
+}
